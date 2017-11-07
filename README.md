@@ -1,6 +1,6 @@
 # Identify NYC Subway travel time Destination from two Origin pairs with time restrictions
 
-
+Data and Inspiration: https://project.wnyc.org/transit-time/
 
 ### Dependencies
 
