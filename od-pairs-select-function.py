@@ -38,4 +38,4 @@ main(300, 303, 25, 55)
 if __name__ == '__main__':
     main(300, 303, 25, 55)
 
-# do this w/ sys args
+# do this w/ sys args https://www.saltycrane.com/blog/2007/12/how-to-pass-command-line-arguments-to/
